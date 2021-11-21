@@ -12,6 +12,11 @@ Dieses Dokument beschreibt die Philosophie, Entscheidungen, Nebenbedingungen, Be
 
 //Anmerkung: Die Architektur legt wesentliche EINSCHRÄNKUNGEN für den Systementwurf fest und ist ein Schlüssel für die Erfüllung nicht-funktionaler Eigenschaften!
 
+
+=== Stakeholder 
+//stellt Betriebsumgebung bereit
+Webhoster, Barbetreiber, (Versanddienstleister), Benutzerumgebung (Bestellmengen, welche Anforderungen), Kunden (wo wird System genutzt, welche Endgeräte, ), Bezahldienstleister, Gesetzgeber(Datenschutz, BGB, Jugendschutz, Impressumspflicht, Fernabsatzsgesetz zB Rückgabefristen)
+
 == Architekturziele und Philosophie
 //Hinweise: Beschreiben Sie die Philosophie der Architektur, d.h. den zentralen Ansatz für ihre Architektur. Identifizieren Sie alle Aspekte, die die Philosophie beeinflussen, z.B. komplexe Auslieferung Aspekte, Anpassung von Altsystemen oder besondere Geschwindigkeitsanforderungen. Muss es besonders robust sein, um eine langfristige Wartung und Pflege zu ermöglichen?
 
